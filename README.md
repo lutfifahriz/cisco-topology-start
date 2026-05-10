@@ -26,4 +26,4 @@ Topologi Star merupakan topologi yang paling umum digunakan pada jaringan modern
 ## Kekurangan
 - Ketergantungan pada switch utama
 - Jika switch rusak, jaringan terganggu
-- ![Topologi](TOPOLOGI STAR.png)
+- ![Topologi](https://github.com/lutfifahriz/cisco-topology-start/blob/main/TOPOLOGI%20STAR.png)
